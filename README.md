@@ -10,4 +10,5 @@ My innovative approach not only showcases cutting-edge technology but also promi
 
 # Output Video
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/CA3S5--3Msg/0.jpg)]([http://www.youtube.com/watch?v=/CA3S5--3Msg) "AI based Football Highlights")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/CA3S5--3Msg/0.jpg)]([http://www.youtube.com/watch?v=CA3S5--3Msg])
+
